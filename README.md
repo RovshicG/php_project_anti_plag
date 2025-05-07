@@ -18,7 +18,7 @@
 - JavaScript
 - MySQL
 
-e:\OpenServer\domains\anti_plag\
+anti_plag\
 ├── assets/
 │   ├── css/
 │   │   ├── login.css
